@@ -1,5 +1,18 @@
 ---
 title: "Liam Quach"
---- 
+image: media/IMG_5675.JPG
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/liam-quach-36a52a197
+    - text: GitHub
+      href: https://github.com/LiamQuach
+---
+        
+# page content excluded for brevity ~
 
 Hi, shitposting for 541
