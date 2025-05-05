@@ -1,0 +1,14 @@
+---
+title: "Lab 3: Static Dashboard"
+description: "Transforming a Report into a Dashboard"
+image: preview photo.png
+author: "Liam Quach"
+date: 04-21-2025
+categories: [Quarto, R, Dashboards]
+format: html
+---
+
+<center>
+<iframe src="https://liamquach2002.quarto.pub/lab-3/lab-3.html" frameborder="0" width="1700" height="1080" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+</iframe>
+</center>

@@ -1,0 +1,14 @@
+---
+title: "Lab 4: Interactive Dashboard"
+description: "Transforming a Report into a Dashboard"
+image: preview photo.png
+author: "Liam Quach"
+date: 04-21-2025
+categories: [Quarto, R, Dashboards, Shiny]
+format: html
+---
+
+<center>
+<iframe src="https://if88xx-liam-quach.shinyapps.io/lab4/" frameborder="0" width="1700" height="1080" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+</iframe>
+</center>
