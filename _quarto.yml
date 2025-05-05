@@ -8,14 +8,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - posts.qmd # add your listing page file to your navbar, just like you would any other new web page
 
 format:
   html:
     html:
     theme: 
-      light: minty
+      light: mintyx
       dark: solar
     css: styles.css
     toc: true
