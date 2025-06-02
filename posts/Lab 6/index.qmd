@@ -1,6 +1,7 @@
 ---
 title: "Lab 6 - Spicy"
 description: "Performing Many Different Versions of an Analysis"
+image: image.jpg
 author:
   - name: Liam Quach
     url: https://LiamQuach.github.io/
