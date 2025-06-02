@@ -16,7 +16,6 @@ format:
     page-layout: full
 ---
 
-
 # Instructions
 
 **Create a Quarto file for ALL Lab 2 (no separate files for Parts 1 and 2).**
@@ -585,7 +584,7 @@ leaflet(data = world_vax) %>%  # Removed the leafletOptions() that disabled zoom
 
 **For this third plot, you must use one of the other `ggplot2` extension packages mentioned this week (e.g., `gganimate`, `plotly`, `patchwork`, `cowplot`).**
 
-13. Select a data visualization in the report that you think could be improved. Be sure to cite both the page number and figure title. Do your best to tell the story of this graph in words. That is, what is this graph telling you? What do you think the authors meant to convey with it?![](images/Screenshot 2025-04-14 at 4.12.31 PM.png)\
+13. Select a data visualization in the report that you think could be improved. Be sure to cite both the page number and figure title. Do your best to tell the story of this graph in words. That is, what is this graph telling you? What do you think the authors meant to convey with it?![](images/Screenshot%202025-04-14%20at%204.12.31%20PM.png)\
     \
     This visualization shows how people perceive the benefits of science at both personal and societal levels, dividing respondents into four distinct groups:
 

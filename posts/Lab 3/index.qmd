@@ -9,6 +9,9 @@ format: html
 ---
 
 <center>
+
 <iframe src="https://liamquach2002.quarto.pub/lab-3/lab-3.html" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+
 </iframe>
+
 </center>
